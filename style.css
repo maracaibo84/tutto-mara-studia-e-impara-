@@ -1,0 +1,16 @@
+.marascala{
+background-color: red;
+text-align: center;
+border-style: solid;
+border-color: blue;
+border: width 60px;
+padding: 10px;
+
+border-radius: 990px;
+
+}
+
+.nav-link{
+    font-size: 20px;
+    color: aqua;
+}
